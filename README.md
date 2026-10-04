@@ -9,8 +9,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=2c5364)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammedhanas&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/muhammedhanas?label=Followers&style=for-the-badge&logo=github&color=2c5364)
 ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -204,12 +204,12 @@ flowchart TB
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛰️ **[fleet-platform-aws](https://github.com/YOUR_USERNAME/fleet-platform-aws)** | Production-style, scalable GPS/IoT telemetry platform modeled on real ~1,000-device Traccar operations | `AWS` `Terraform` `RDS` `ALB` |
-| ☸️ **[k8s-production-platform](https://github.com/YOUR_USERNAME/k8s-production-platform)** | Hardened cluster blueprint: RBAC, NetworkPolicy, PDB, HPA, Pod Security, Helm | `Kubernetes` `Helm` `Argo CD` |
-| 🔐 **[devsecops-pipeline](https://github.com/YOUR_USERNAME/devsecops-pipeline)** | End-to-end secure delivery: SAST, dependency, container and IaC scanning with quality gates | `Jenkins` `SonarQube` `Trivy` |
-| 📊 **[observability-stack](https://github.com/YOUR_USERNAME/observability-stack)** | Metrics, dashboards and alerting with node, container and cluster exporters | `Prometheus` `Grafana` |
-| 🤖 **[ai-ops-agent](https://github.com/YOUR_USERNAME/ai-ops-agent)** | Agent that diagnoses incidents and proposes safe remediations with approval gates | `Python` `LLM` `RAG` |
-| 🧩 **[terraform-aws-modules](https://github.com/YOUR_USERNAME/terraform-aws-modules)** | Reusable, tested Terraform modules with remote state and multi-env layout | `Terraform` `S3` `DynamoDB` |
+| 🛰️ **[fleet-platform-aws](https://github.com/muhammedhanas/fleet-platform-aws)** | Production-style, scalable GPS/IoT telemetry platform modeled on real ~1,000-device Traccar operations | `AWS` `Terraform` `RDS` `ALB` |
+| ☸️ **[k8s-production-platform](https://github.com/muhammedhanas/k8s-production-platform)** | Hardened cluster blueprint: RBAC, NetworkPolicy, PDB, HPA, Pod Security, Helm | `Kubernetes` `Helm` `Argo CD` |
+| 🔐 **[devsecops-pipeline](https://github.com/muhammedhanas/devsecops-pipeline)** | End-to-end secure delivery: SAST, dependency, container and IaC scanning with quality gates | `Jenkins` `SonarQube` `Trivy` |
+| 📊 **[observability-stack](https://github.com/muhammedhanas/observability-stack)** | Metrics, dashboards and alerting with node, container and cluster exporters | `Prometheus` `Grafana` |
+| 🤖 **[ai-ops-agent](https://github.com/muhammedhanas/ai-ops-agent)** | Agent that diagnoses incidents and proposes safe remediations with approval gates | `Python` `LLM` `RAG` |
+| 🧩 **[terraform-aws-modules](https://github.com/muhammedhanas/terraform-aws-modules)** | Reusable, tested Terraform modules with remote state and multi-env layout | `Terraform` `S3` `DynamoDB` |
 
 <sub>Replace each link with your real repository as you ship it.</sub>
 
@@ -242,12 +242,12 @@ timeline
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammedhanas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedhanas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedhanas&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=muhammedhanas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -271,7 +271,7 @@ focus_stack: [AWS, Terraform, Kubernetes, CI/CD, DevSecOps, Observability]
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedhanas4@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_SITE)
 
 <br/>
