@@ -1,575 +1,644 @@
-# 👋 Hi, I'm Muhammed Hanas
+::: {align="center"}
+# ⚡ MUHAMMED HANAS
 
-### ☁️ Cloud & DevOps Engineer • Platform Engineering • Infrastructure Automation • DevSecOps • AI-Powered Operations
+### CLOUD · PLATFORM · DEVSECOPS · AIOPS ENGINEER
 
-> **I build infrastructure that is automated, observable, secure, scalable, and designed to survive production.**
+**Architecting resilient cloud platforms · Automating everything ·
+Securing the software supply chain · Engineering intelligent
+operations**
 
-I'm an infrastructure-focused engineer evolving from hands-on IT administration into **Cloud, DevOps, Platform Engineering and AI-assisted infrastructure automation**.
+`<br/>`{=html}
 
-My approach is simple:
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Cloud+%2F+Platform+Engineering;Kubernetes+%7C+Terraform+%7C+AWS;DevSecOps+%7C+SRE+%7C+Observability;Infrastructure+Automation+%7C+Python;AI-Powered+Operations+%7C+Intelligent+Platforms" alt="Engineering focus animation" />`{=html}
 
-**Understand the architecture → automate the repetitive work → secure it → observe it → test it → deploy it → improve it.**
+`<br/>`{=html}`<br/>`{=html}
 
----
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform%20Engineering-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![DevSecOps](https://img.shields.io/badge/DevSecOps-Secure%20Delivery-0A0A0A?style=for-the-badge&logo=securityscorecard&logoColor=white)](#-devsecops--software-supply-chain)
+[![AIOps](https://img.shields.io/badge/AIOps-Intelligent%20Operations-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](#-aiops--intelligent-platform-engineering)
 
-## 🚀 What I'm Building Toward
+`<br/>`{=html}
 
-```text
-IT Infrastructure
-       ↓
-Linux + Networking + Systems
-       ↓
-AWS Cloud
-       ↓
-Infrastructure as Code
-       ↓
-Containers + Kubernetes
-       ↓
-CI/CD + GitOps
-       ↓
-Observability + Reliability
-       ↓
-DevSecOps
-       ↓
-Platform Engineering
-       ↓
-AI-Powered Infrastructure & Autonomous Operations
+> **BUILD INFRASTRUCTURE · AUTOMATE OPERATIONS · SECURE EVERYTHING ·
+> OBSERVE EVERYTHING · USE AI INTELLIGENTLY**
+:::
+
+------------------------------------------------------------------------
+
+## `> whoami`
+
+I am an **infrastructure-first Cloud & Platform Engineer** focused on
+building the systems that modern engineering teams run on.
+
+My engineering world sits at the intersection of **cloud architecture,
+Kubernetes platforms, infrastructure as code, secure CI/CD,
+observability, reliability engineering, automation, and AI-assisted
+operations**.
+
+I design platforms with one principle in mind:
+
+``` text
+Infrastructure should be reproducible.
+Delivery should be automated.
+Security should be continuous.
+Systems should be observable.
+Operations should become increasingly intelligent.
 ```
 
-My long-term goal is to become the engineer who can take a system from:
+My long-term engineering mission is to build **self-service, secure,
+observable and increasingly autonomous cloud platforms** that reduce
+operational friction and allow developers to ship reliably at scale.
 
-**"We need this application."**
+------------------------------------------------------------------------
 
-to
+## 🧬 ENGINEERING DNA
 
-**"Here is the production architecture, infrastructure, deployment pipeline,
-security model, observability stack, disaster-recovery strategy and automation."**
+``` text
+                         MUHAMMED HANAS
+                              │
+                ┌─────────────┼─────────────┐
+                │             │             │
+                ▼             ▼             ▼
+              CLOUD        PLATFORM       SECURITY
+                │             │             │
+          AWS Architecture  Kubernetes    DevSecOps
+          Terraform / IaC   Helm / GitOps  IAM / Policy
+                │             │             │
+                └───────┬─────┴─────┬───────┘
+                        │           │
+                        ▼           ▼
+                 OBSERVABILITY   AUTOMATION
+                        │           │
+                   SRE / Metrics  Python / Bash
+                        └─────┬─────┘
+                              ▼
+                       AI OPERATIONS
+                              │
+                              ▼
+                  INTELLIGENT PLATFORMS
+```
 
----
+------------------------------------------------------------------------
 
-# 🧠 Engineering Focus
+## 🛰️ PLATFORM VISION
 
-### ☁️ Cloud & Infrastructure
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="33%" valign="top">
+```
+### ☁️ Cloud Foundation
 
-- AWS architecture and cloud infrastructure
-- EC2, VPC, IAM, S3, RDS, Route 53 and related AWS services
-- Linux infrastructure administration
-- Networking, DNS, routing and server management
-- High availability and scalable architecture
-- Backup, recovery and disaster-recovery thinking
-- Cost-aware infrastructure design
+Design scalable AWS environments with strong networking, identity,
+security, resilience and cost-awareness.
 
-### 🏗️ Infrastructure as Code
+`AWS` `VPC` `IAM` `EC2` `EKS` `RDS` `S3` `Route 53` `CloudFront`
 
-- Terraform
-- Modular infrastructure
-- Remote state and state management
-- Reusable infrastructure modules
-- Environment separation
-- Infrastructure lifecycle management
-- Automated provisioning and teardown
+```{=html}
+</td>
+```
+```{=html}
+<td width="33%" valign="top">
+```
+### ☸️ Platform Engineering
 
-### ☸️ Kubernetes & Platform Engineering
+Build Kubernetes-based internal platforms that give developers secure,
+repeatable self-service paths to production.
 
-- Kubernetes
-- Helm
-- Ingress
-- Services
-- RBAC
-- NetworkPolicies
-- HPA / PDB
-- StatefulSets / DaemonSets
-- Jobs / CronJobs
-- ConfigMaps / Secrets
-- PV / PVC / StorageClass
-- SecurityContext / Pod Security
-- Affinity / Taints / Tolerations
-- ServiceAccounts
-- CRDs and Operators
-- Kubernetes troubleshooting and production operations
+`Kubernetes` `Helm` `Ingress` `RBAC` `HPA` `PDB` `Operators` `GitOps`
 
-### 🔄 CI/CD & Automation
-
-- Git / GitHub
-- Jenkins
-- GitHub Actions
-- Maven
-- Automated testing
-- Artifact management
-- Docker image pipelines
-- Deployment automation
-- CI/CD security gates
-- GitOps-oriented workflows
-
+```{=html}
+</td>
+```
+```{=html}
+<td width="33%" valign="top">
+```
 ### 🔐 DevSecOps
 
-```text
-Code
- ↓
-Build
- ↓
-Test
- ↓
-SAST
- ↓
-Dependency Scan
- ↓
-Container Scan
- ↓
-IaC Scan
- ↓
-Kubernetes Security
- ↓
-Deploy
- ↓
-Monitor
+Move security into every stage of engineering---from source and
+dependencies to containers, IaC, clusters and runtime.
+
+`SAST` `SCA` `IaC Scan` `Image Scan` `Policy` `Secrets`
+`Runtime Security`
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="33%" valign="top">
+```
+### 🔄 Delivery Engineering
+
+Create automated software delivery systems with quality gates, immutable
+artifacts and controlled deployments.
+
+`GitHub Actions` `Jenkins` `Maven` `Nexus` `Docker` `Argo CD`
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="33%" valign="top">
+```
+### 📡 Reliability & Observability
+
+Engineer systems around telemetry, SLOs, actionable alerts, capacity
+awareness and rapid incident diagnosis.
+
+`Prometheus` `Grafana` `OpenTelemetry` `Logs` `Metrics` `Traces` `SLOs`
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="33%" valign="top">
+```
+### 🤖 Intelligent Operations
+
+Connect AI agents with infrastructure telemetry and controlled
+automation to assist diagnosis, remediation and platform operations.
+
+`LLMs` `Agents` `RAG` `Tool Use` `AIOps` `Automation` `Guardrails`
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
 ```
 
-Tools and concepts I work with / build around:
+------------------------------------------------------------------------
 
-- Trivy
-- SonarQube
-- kubeaudit
-- Container security
-- Kubernetes security
-- Secrets management
-- Least privilege IAM
-- Secure CI/CD
-- Infrastructure security
+## ⚙️ TECHNOLOGY MATRIX
 
-### 📊 Observability & Reliability
+::: {align="center"}
+### Cloud & Infrastructure
 
-- Prometheus
-- Grafana
-- Node Exporter
-- cAdvisor
-- kube-state-metrics
-- Metrics and dashboards
-- Alerting
-- Application health
-- Infrastructure health
-- Troubleshooting and root-cause analysis
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
----
+### Containers & Platforms
 
-# 🐳 Container & Cloud-Native Stack
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Argo
+CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-```text
-GitHub
+### CI/CD & DevSecOps
+
+![GitHub
+Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
+
+### Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### Automation & Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+:::
+
+------------------------------------------------------------------------
+
+## 🏗️ FLAGSHIP ENGINEERING SYSTEMS
+
+### `01` --- Production-Grade DevSecOps Delivery Platform
+
+``` mermaid
+flowchart LR
+    DEV[Developer] --> GH[GitHub]
+    GH --> CI[CI Engine]
+    CI --> TEST[Build & Test]
+    TEST --> SAST[Code Quality / SAST]
+    SAST --> SCAN[Dependency + Container + IaC Scan]
+    SCAN --> ART[Artifact Repository]
+    ART --> IMG[Container Registry]
+    IMG --> GITOPS[GitOps Controller]
+    GITOPS --> K8S[Kubernetes]
+    K8S --> OBS[Metrics / Logs / Traces]
+    OBS --> AI[AI Operations Layer]
+```
+
+**Engineering focus:** isolated services, automated quality gates,
+immutable artifacts, vulnerability scanning, Kubernetes delivery,
+observability, policy enforcement and controlled automation.
+
+------------------------------------------------------------------------
+
+### `02` --- Cloud-Native AWS Platform
+
+``` text
+Internet
    │
    ▼
-CI/CD
-   │
-   ├── Jenkins / GitHub Actions
+DNS / CDN / WAF
    │
    ▼
-Maven / Build
-   │
-   ├── SonarQube
-   ├── Trivy
-   └── Artifact Repository
+Load Balancing
    │
    ▼
-Docker
-   │
-   ▼
-Kubernetes
-   │
-   ├── Helm
-   ├── Ingress
-   ├── RBAC
-   ├── NetworkPolicy
-   └── Autoscaling
-   │
-   ▼
-Prometheus + Grafana
+┌──────────────── AWS VPC ────────────────┐
+│                                         │
+│   Public Edge                           │
+│       │                                 │
+│       ▼                                 │
+│   Private Application / EKS Layer       │
+│       │                                 │
+│       ├────► Data Services              │
+│       ├────► Cache / Messaging          │
+│       └────► Observability              │
+│                                         │
+│   Terraform + IAM + Secrets + Policies  │
+└─────────────────────────────────────────┘
 ```
 
----
+**Engineering focus:** high availability, least privilege, private
+networking, infrastructure as code, reusable modules, automated
+deployment, backup/recovery, monitoring and cost-aware architecture.
 
-# 🛠️ Technology Matrix
+------------------------------------------------------------------------
 
-| Area | Technologies |
-|---|---|
-| ☁️ Cloud | AWS |
-| 🏗️ IaC | Terraform |
-| 🐧 OS | Linux / Ubuntu |
-| 📦 Containers | Docker |
-| ☸️ Orchestration | Kubernetes |
-| ⛵ Packaging | Helm |
-| 🔄 CI/CD | Jenkins, GitHub Actions |
-| 🔧 Build | Maven |
-| 🔍 Code Quality | SonarQube |
-| 🛡️ Security | Trivy, kubeaudit, DevSecOps |
-| 📈 Monitoring | Prometheus, Grafana |
-| 🐍 Automation | Python, Bash |
-| 🌐 Networking | TCP/IP, DNS, Routing, VPN, LAN/WAN |
-| 🗄️ Databases | MySQL |
-| 🌍 Web | Nginx, WordPress, Hosting Infrastructure |
-| 🤖 AI Automation | AI Agents, LLM APIs, Tool-driven Automation |
+### `03` --- AI-Powered Infrastructure Operations
 
----
-
-# 🏭 Real-World Infrastructure Experience
-
-One of my strongest differentiators is that my infrastructure experience is not limited to tutorials.
-
-### 📡 GPS Fleet Platform
-
-I have worked with a **Traccar-based GPS tracking platform supporting ~1,000 GPS devices**.
-
-This involves thinking about:
-
-```text
-GPS Devices
-    ↓
-Network / Connectivity
-    ↓
-GPS Tracking Platform
-    ↓
-Server Infrastructure
-    ↓
-Database
-    ↓
-Applications / APIs
-    ↓
-Users / Fleet Operations
+``` mermaid
+flowchart TD
+    T[Telemetry] --> C[Context Engine]
+    D[Docs / Runbooks] --> C
+    C --> A[AI Operations Agent]
+    A --> X[Diagnose]
+    X --> P[Propose Action]
+    P --> G{Policy / Approval Gate}
+    G -->|Approved| E[Execute Automation]
+    G -->|Rejected| R[Report / Escalate]
+    E --> V[Validate Result]
+    V --> L[Learn / Report]
 ```
 
-This experience shaped how I think about:
+**Vision:** AI should not blindly control infrastructure. It should
+**observe → correlate → diagnose → propose → execute through guardrails
+→ validate → report**.
 
-- Reliability
-- Connectivity
-- Server infrastructure
-- Data flow
-- Database operations
-- Monitoring
-- Troubleshooting
-- Production incidents
-- Scaling
-- Automation
+------------------------------------------------------------------------
 
----
+## 🔐 DEVSECOPS / SOFTWARE SUPPLY CHAIN
 
-# 🧪 My DevOps Laboratory
-
-I don't want to only know commands.
-
-I build environments where the technologies have to work together.
-
-### Current / evolving lab architecture
-
-```text
-                     ┌───────────────┐
-                     │    GitHub     │
-                     └───────┬───────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     Jenkins     │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-         Maven Build     SonarQube       Trivy
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                         Docker
-                             │
-                             ▼
-                       Kubernetes
-                             │
-          ┌──────────────────┼──────────────────┐
-          ▼                  ▼                  ▼
-       Helm              Ingress          NetworkPolicy
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             ▼
-                    Prometheus + Grafana
+``` text
+COMMIT
+  │
+  ├──► Secret Detection
+  ├──► SAST
+  ├──► Dependency / SCA Scan
+  ├──► Unit & Integration Tests
+  ├──► IaC Security Scan
+  ├──► Container Image Scan
+  ├──► SBOM / Artifact Integrity
+  ├──► Policy Gates
+  ├──► Kubernetes Admission Controls
+  └──► Runtime Detection + Observability
 ```
 
----
+Security is not a final pipeline stage. **Security is a property of the
+entire delivery system.**
 
-# 🤖 AI + Infrastructure
+------------------------------------------------------------------------
 
-The next generation of infrastructure engineering will not be only about writing YAML and Terraform.
+## 🤖 AIOPS + INTELLIGENT PLATFORM ENGINEERING
 
-I'm exploring how **AI agents can become infrastructure copilots and eventually autonomous operational systems**.
+The next generation of infrastructure will not be managed only through
+dashboards and manual runbooks.
 
-Areas I'm interested in:
+I am building toward platforms where AI can safely work across:
 
-- AI-assisted DevOps
-- Infrastructure troubleshooting agents
-- Log analysis
-- Automated incident investigation
-- CI/CD failure analysis
-- Infrastructure remediation
-- AWS operational assistants
-- Kubernetes operational assistants
-- AI-powered code generation + validation
-- Automated testing
-- Agentic workflows
-- LLM-powered developer tooling
+  Signal              Intelligence                   Controlled Action
+  ------------------- ------------------------------ --------------------------
+  Metrics & alerts    Detect abnormal behavior       Scale / recover
+  Logs & traces       Correlate failures             Execute runbooks
+  Kubernetes state    Diagnose workloads             Propose remediation
+  Cloud telemetry     Detect risk / waste            Optimize resources
+  CI/CD signals       Analyze failed releases        Recommend fixes
+  Security findings   Prioritize exposure            Trigger guarded response
+  Documentation       Retrieve operational context   Assist engineers
 
-### Vision
+The target is **human-governed autonomous infrastructure**---automation
+with context, policy, auditability and safety boundaries.
 
-```text
-                  ┌──────────────────┐
-                  │     AI Agent     │
-                  └────────┬─────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-        AWS             Kubernetes         CI/CD
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                    Observe + Diagnose
-                           │
-                           ▼
-                    Recommend / Execute
-                           │
-                           ▼
-                    Validate Changes
-                           │
-                           ▼
-                    Report the Result
+------------------------------------------------------------------------
+
+## 📊 ENGINEERING PRINCIPLES
+
+``` yaml
+engineering:
+  infrastructure:
+    philosophy: "Everything reproducible"
+    implementation: "Infrastructure as Code"
+
+  delivery:
+    philosophy: "Automate the path to production"
+    implementation: "CI/CD + GitOps"
+
+  security:
+    philosophy: "Shift left and protect runtime"
+    implementation: "DevSecOps + Policy as Code"
+
+  reliability:
+    philosophy: "Design for failure"
+    implementation: "SRE + Resilience Engineering"
+
+  observability:
+    philosophy: "No invisible systems"
+    implementation: "Metrics + Logs + Traces"
+
+  operations:
+    philosophy: "Automate repeatable decisions"
+    implementation: "Python + Event-driven Automation"
+
+  intelligence:
+    philosophy: "AI assists; guardrails govern"
+    implementation: "Agents + RAG + Tooling + Approval Gates"
 ```
 
-The goal is not **"AI writes commands."**
+------------------------------------------------------------------------
 
-The goal is:
+## 🧠 AREAS OF DEEP ENGINEERING FOCUS
 
-> **AI understands infrastructure, reasons about failures, proposes safe changes, validates the result, and helps engineers operate systems faster.**
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}☸️ Kubernetes Platform Engineering`</b>`{=html}
+```{=html}
+</summary>
+```
+`<br/>`{=html}
 
----
+-   Multi-environment Kubernetes architecture
+-   Deployments, StatefulSets, DaemonSets, Jobs and CronJobs
+-   Services, Ingress and traffic management
+-   Helm packaging and reusable application patterns
+-   RBAC and workload identity
+-   NetworkPolicy and segmentation
+-   Pod Security and SecurityContext
+-   HPA, scheduling, affinity, taints and tolerations
+-   Persistent storage and StorageClasses
+-   CRDs, operators and extensibility
+-   GitOps delivery
+-   Cluster observability and troubleshooting
+-   Reliability, disruption management and upgrade strategy
 
-# 🧩 Selected Projects
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}☁️ AWS Architecture & Infrastructure as Code`</b>`{=html}
+```{=html}
+</summary>
+```
+`<br/>`{=html}
 
-### 🚀 Production GPS Infrastructure
-**Traccar + ~1,000 GPS devices**
+-   Multi-tier and highly available architectures
+-   VPC design, routing, subnets and security boundaries
+-   Identity and least-privilege IAM
+-   Compute, storage, database and container platforms
+-   EKS platform foundations
+-   Terraform modules and reusable infrastructure
+-   Remote state and environment isolation
+-   Automated infrastructure delivery
+-   Resilience, backup and disaster recovery
+-   Cost, security and operational excellence
 
-Production-oriented fleet tracking infrastructure, server management, networking, database and operational troubleshooting.
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}🔐 Cloud-Native Security`</b>`{=html}
+```{=html}
+</summary>
+```
+`<br/>`{=html}
 
----
+-   Secure software supply chains
+-   Secrets management
+-   SAST and dependency security
+-   Container vulnerability management
+-   IaC scanning
+-   Kubernetes hardening
+-   RBAC and policy enforcement
+-   Admission control
+-   Runtime security
+-   Security observability
+-   Automated evidence and compliance workflows
 
-### ☁️ AWS Infrastructure Projects
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}📡 SRE & Observability`</b>`{=html}
+```{=html}
+</summary>
+```
+`<br/>`{=html}
 
-Infrastructure built around:
+-   Metrics, logs and distributed traces
+-   Prometheus and Grafana
+-   OpenTelemetry
+-   SLI / SLO thinking
+-   Actionable alerting
+-   Capacity and saturation monitoring
+-   Incident diagnosis
+-   Runbook automation
+-   Reliability engineering
+-   Continuous operational feedback
 
-- EC2
-- Networking
-- Linux
-- Web applications
-- Security
-- DNS
-- Terraform
-- Automation
-
----
-
-### 🔄 DevSecOps CI/CD Platform
-
-An integrated pipeline using:
-
-```text
-GitHub
-→ Jenkins
-→ Maven
-→ Tests
-→ SonarQube
-→ Trivy
-→ Artifact Repository
-→ Docker
-→ Kubernetes
-→ Prometheus
-→ Grafana
+```{=html}
+</details>
 ```
 
----
+------------------------------------------------------------------------
 
-### ☸️ Advanced Kubernetes Lab
+## 🌐 FROM REAL INFRASTRUCTURE TO INTELLIGENT INFRASTRUCTURE
 
-A production-style Kubernetes learning environment covering:
+My engineering perspective starts below the abstraction layer.
 
-- Workloads
-- Networking
-- Security
-- Storage
-- Scheduling
-- Autoscaling
-- Reliability
-- Observability
-- Helm
-- RBAC
-- NetworkPolicies
-- Operators / CRDs
-
----
-
-### 🤖 AI Infrastructure Automation
-
-Exploring AI agents that can:
-
-- inspect infrastructure
-- analyze logs
-- understand deployment failures
-- execute controlled tools
-- create and test automation
-- iterate on solutions
-- integrate with DevOps workflows
-
----
-
-# 📚 Certifications & Continuous Learning
-
-### Completed
-
-- ✅ AWS Certified Solutions Architect – Associate
-
-### Current / Planned
-
-- 🔄 HashiCorp Terraform Associate
-- 🎯 Kubernetes certifications
-- 🎯 Advanced AWS / DevOps
-- 🎯 DevSecOps
-- 🎯 Platform Engineering
-- 🎯 Cloud Security
-- 🎯 Advanced Infrastructure Automation
-
-I believe certifications validate knowledge.
-
-**Projects prove that knowledge can be applied.**
-
----
-
-# 🗺️ My Engineering Roadmap
-
-```text
-                 CURRENT
+``` text
+Networks → Linux → Servers → Applications → Databases
                     │
                     ▼
-          Cloud + DevOps Engineer
+              Cloud Infrastructure
                     │
                     ▼
-           Infrastructure Engineer
+              Infrastructure as Code
                     │
                     ▼
-          Platform / Cloud Engineer
+             Containers / Kubernetes
                     │
                     ▼
-        Senior DevOps / Platform Engineer
+             CI/CD + DevSecOps
                     │
                     ▼
-       Cloud Infrastructure Architect
+               Observability
                     │
                     ▼
-     AI-Powered Platform Engineering
+            Platform Engineering
+                    │
+                    ▼
+          AI-Assisted Operations
 ```
 
-### Future capability target
+That infrastructure-first mindset matters: **cloud-native engineering is
+strongest when the engineer understands what exists underneath the
+platform.**
 
-```text
-AWS
-+
-Terraform
-+
-Kubernetes
-+
-Helm
-+
-CI/CD
-+
-Docker
-+
-Observability
-+
-Python/Bash
-+
-DevSecOps
-+
-Security
-+
-Production Architecture
-+
-AI Agents
-=
-Modern Platform Engineer
+------------------------------------------------------------------------
+
+## 🧪 ENGINEERING LAB
+
+My repositories are designed to evolve into a practical engineering lab
+covering:
+
+-   **Production-style AWS architectures**
+-   **Reusable Terraform infrastructure modules**
+-   **Kubernetes platform blueprints**
+-   **Secure CI/CD reference architectures**
+-   **GitOps deployment systems**
+-   **DevSecOps security pipelines**
+-   **Observability stacks**
+-   **SRE automation**
+-   **Python infrastructure tooling**
+-   **AI operations agents**
+-   **Self-service internal developer platforms**
+
+> Repositories should demonstrate architecture, automation, security,
+> observability and operational thinking---not just installation
+> commands.
+
+------------------------------------------------------------------------
+
+## 🏆 CERTIFICATION & KNOWLEDGE DOMAINS
+
+::: {align="center"}
+![AWS
+SAA](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/CNCF-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Security](https://img.shields.io/badge/Cloud-Native%20Security-111827?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+:::
+
+**Knowledge direction:** Cloud Architecture · Kubernetes Administration
+· Infrastructure as Code · DevOps Engineering · Cloud Security ·
+Platform Engineering · SRE · AIOps
+
+------------------------------------------------------------------------
+
+## 📈 GITHUB SIGNALS
+
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>`{=html}
+`<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub streak"/>`{=html}
+
+`<br/>`{=html}
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&theme=github-compact" width="95%" alt="Contribution graph"/>`{=html}
+:::
+
+> Replace every `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+
+------------------------------------------------------------------------
+
+## 🧭 CURRENT ENGINEERING NORTH STAR
+
+``` text
+                    ┌──────────────────────────┐
+                    │  INTELLIGENT PLATFORM    │
+                    │       ENGINEERING        │
+                    └────────────┬─────────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             ▼                   ▼                   ▼
+        SELF-SERVICE         RELIABILITY          SECURITY
+        PLATFORMS            ENGINEERING          BY DESIGN
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 ▼
+                         AUTOMATION LAYER
+                                 │
+                                 ▼
+                          AI OPERATIONS
+                                 │
+                                 ▼
+                 SAFE · OBSERVABLE · AUDITABLE
 ```
 
----
+------------------------------------------------------------------------
 
-# 🧠 Engineering Philosophy
+## 💬 ENGINEERING PHILOSOPHY
 
-> **Automate what should not be manual.**
+> **The best infrastructure is not the infrastructure that requires the
+> most operators. It is the infrastructure that gives engineers safe
+> abstractions, strong guardrails, complete visibility and automated
+> paths to recovery.**
 
-> **Infrastructure should be reproducible.**
+------------------------------------------------------------------------
 
-> **Security should be part of the pipeline, not an afterthought.**
+::: {align="center"}
+### ⚡ BUILD · AUTOMATE · SECURE · OBSERVE · INTELLIGENTLY OPERATE
 
-> **If it cannot be observed, it cannot be operated confidently.**
+**Cloud Architecture** · **Platform Engineering** · **DevSecOps** ·
+**SRE** · **AIOps**
 
-> **If it cannot be reproduced, it is not properly automated.**
+`<br/>`{=html}
 
-> **Production experience matters more than memorizing commands.**
+![Profile
+Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
 
-> **AI should amplify engineering judgment, not replace it.**
+`<br/>`{=html}
 
----
-
-# 📈 What I'm Optimizing For
-
-I'm not trying to collect technologies randomly.
-
-I'm building toward the ability to:
-
-- Design cloud infrastructure
-- Build infrastructure with Terraform
-- Containerize applications
-- Operate Kubernetes
-- Create reliable CI/CD pipelines
-- Implement DevSecOps
-- Build observability
-- Troubleshoot production systems
-- Automate infrastructure operations
-- Design for scalability and resilience
-- Build internal developer platforms
-- Use AI agents for infrastructure operations
-- Understand systems end-to-end
-
----
-
-# 🌍 Open to Opportunities
-
-I'm interested in opportunities involving:
-
-**DevOps Engineering · Cloud Engineering · Platform Engineering · Infrastructure Engineering · SRE · Cloud Operations · Systems Engineering**
-
-📍 **UAE / Dubai and remote opportunities**
-
----
-
-# 🤝 Let's Connect
-
-If you're building:
-
-- Cloud infrastructure
-- Kubernetes platforms
-- DevOps pipelines
-- DevSecOps systems
-- AI-powered infrastructure
-- scalable backend platforms
-- infrastructure automation
-
-I'd love to connect and build something useful.
-
----
-
-<div align="center">
-
-### ⚡ Build. Automate. Secure. Observe. Scale.
-
-**Cloud • DevOps • Kubernetes • Terraform • AWS • Platform Engineering • DevSecOps • AI**
-
-</div>
+`SYSTEM STATUS: BUILDING THE PLATFORM LAYER`
+:::
